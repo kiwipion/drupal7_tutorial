@@ -1,6 +1,6 @@
-; $Id$
-name = drupal7 tutorialpProfile
-description = Profile for mongo db enabled site
+name = drupal7 tutorial profile
+description = Profile for drupal7 db enabled site
+version = VERSION
 core = 7.x
 
 ; Core
@@ -36,4 +36,4 @@ dependencies[] = pathauto
 dependencies[] = security_review
 dependencies[] = views
 dependencies[] = views_ui
-files[] = mongo_profile.profile
+files[] = drupal7_profile.profile

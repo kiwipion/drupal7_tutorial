@@ -8,13 +8,16 @@ projects[admin_menu][version] = "3.x-dev"
 
 projects[advanced_help][version] = "1.x-dev"
 
+projects[ckeditor][version] = "1.x-dev"
+
+projects[colorbox][version] = "1.x-dev"
+
 projects[colortheme][version] = "1.0"
 
 projects[ctools][version] = "1.x-dev"
 
 projects[captcha][version] = "1.x-dev"
 
-; Modules
 projects[delta][version] = "3.x-dev"
 
 projects[devel][version] = "1.x-dev"
@@ -54,6 +57,8 @@ projects[realname][version] = "1.0-rc1"
 projects[rules][version] = "2.0-beta1"
 
 projects[security_review][version] = "1.x-dev"
+
+projects[superfish][version] = "1.8"
 
 projects[skinr][version] = "2.x-dev"
 

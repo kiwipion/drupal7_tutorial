@@ -8,5 +8,8 @@
 function drupal7_tutorial_install() {
   include_once DRUPAL_ROOT . '/profiles/standard/standard.install';
   standard_install();
+  theme_enable(array('sky'));
+  variable_set('theme_default', 'sky');
+
 }
 ?>
