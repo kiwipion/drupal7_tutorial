@@ -81,8 +81,4 @@ libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox.git"
 libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][destination] = "libraries"
 
-libraries[superfish][download][type] = "get"
-libraries[superfish][download][url] = "http://dl.dropbox.com/u/22795799/superfish-library-for-drupal-v1.zip"
-libraries[superfish][directory_name] = "superfish"
-libraries[superfish][destination] = "libraries"
 
