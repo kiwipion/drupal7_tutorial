@@ -8,10 +8,6 @@ projects[admin_menu][version] = "3.x-dev"
 
 projects[advanced_help][version] = "1.x-dev"
 
-projects[ckeditor][version] = "1.x-dev"
-
-projects[colorbox][version] = "1.x-dev"
-
 projects[colortheme][version] = "1.0"
 
 projects[ctools][version] = "1.x-dev"
@@ -54,8 +50,6 @@ projects[pathologic][version] = "1.1"
 
 projects[rules][version] = "2.0-beta1"
 
-projects[token][version] = "1.x-dev"
-
 projects[variablecheck][version] = "1.1"
 
 projects[views][version] = "3.x-dev"
@@ -64,15 +58,5 @@ projects[views][version] = "3.x-dev"
 projects[sky][version] = "1.x-dev"
 projects[rootcandy][version] = "1.x-dev"
 
-; Libraries
-libraries[ckeditor][download][type] = "get"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6/ckeditor_3.6.tar.gz"
-libraries[ckeditor][directory_name] = "ckeditor"
-libraries[ckeditor][destination] = "libraries"
-
-libraries[colorbox][download][type] = "git"
-libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox.git"
-libraries[colorbox][directory_name] = "colorbox"
-libraries[colorbox][destination] = "libraries"
 
 
