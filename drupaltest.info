@@ -20,7 +20,7 @@ dependencies[] = path
 dependencies[] = taxonomy
 
 ; Contrib
-dependencies[] = admin_menu
+dependencies[] = admin
 dependencies[] = colortheme
 dependencies[] = ctools
 dependencies[] = devel
