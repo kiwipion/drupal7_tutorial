@@ -30,6 +30,5 @@ dependencies[] = features
 dependencies[] = insert
 dependencies[] = libraries
 dependencies[] = pathauto
-dependencies[] = security_review
 dependencies[] = views
 dependencies[] = views_ui

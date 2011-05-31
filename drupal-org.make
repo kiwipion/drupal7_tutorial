@@ -56,8 +56,6 @@ projects[realname][version] = "1.0-rc1"
 
 projects[rules][version] = "2.0-beta1"
 
-projects[security_review][version] = "1.x-dev"
-
 projects[token][version] = "1.x-dev"
 
 projects[variablecheck][version] = "1.1"
