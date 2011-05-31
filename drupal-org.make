@@ -62,9 +62,6 @@ projects[superfish][version] = "1.8"
 
 projects[skinr][version] = "2.x-dev"
 
-; Modules
-projects[taxonomy_manager][version] = "1.x-dev"
-
 projects[token][version] = "1.x-dev"
 
 projects[variablecheck][version] = "1.1"
