@@ -20,16 +20,13 @@ dependencies[] = path
 dependencies[] = taxonomy
 
 ; Contrib
-dependencies[] = admin
+dependencies[] = admin_menu
 dependencies[] = colortheme
-dependencies[] = context
-dependencies[] = context_ui
 dependencies[] = ctools
 dependencies[] = devel
 dependencies[] = diff
 dependencies[] = entitycache
 dependencies[] = features
-dependencies[] = fields
 dependencies[] = insert
 dependencies[] = libraries
 dependencies[] = pathauto
