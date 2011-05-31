@@ -1,0 +1,13 @@
+<?php
+
+/**
+ * Implement hook_install().
+ *
+ * Perform actions to set up the site for this profile.
+ */
+function drupaltest_install() {
+  theme_enable(array('sky'));
+  variable_set('theme_default', 'sky');
+
+}
+?>
