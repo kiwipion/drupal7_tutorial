@@ -1,6 +1,5 @@
 name = drupaltest
 description = Profile for drupal7 db enabled site
-version = VERSION
 core = 7.x
 
 ; Core
