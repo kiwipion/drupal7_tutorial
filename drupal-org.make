@@ -52,8 +52,6 @@ projects[pathauto][version] = "1.x-dev"
 
 projects[pathologic][version] = "1.1"
 
-projects[realname][version] = "1.0-rc1"
-
 projects[rules][version] = "2.0-beta1"
 
 projects[token][version] = "1.x-dev"
